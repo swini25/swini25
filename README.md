@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swini25&label=Profile%20views&color=0e75b6&style=flat" alt="swini25" /> </p>
 
-- 🌱 I’m currently learning **Web Tools and Database Designing**
+- 🌱 I’m currently learning **Web Development Tools and Web Design**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
